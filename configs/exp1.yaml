@@ -1,0 +1,6 @@
+# Experiment 1 Configuration
+epochs: 30
+learning_rate: 0.01
+batch_size: 64
+dataset: synthetic
+notes: Baseline experiment with no noise injection.
