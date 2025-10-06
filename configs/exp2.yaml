@@ -1,0 +1,6 @@
+# Experiment 2 Configuration
+epochs: 30
+learning_rate: 0.01
+batch_size: 64
+dataset: synthetic_noisy
+notes: Experiment with added noise to assess robustness.
